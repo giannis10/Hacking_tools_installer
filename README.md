@@ -1,4 +1,6 @@
 The Hacking_tools_installer run and auto install 8 of the best hacking tool for github
+RUN:bash BreadcrumbsHacking_tools_installer
+
 Tools:
 1)zphisher
 2)ddos
