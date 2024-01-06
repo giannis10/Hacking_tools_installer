@@ -1,4 +1,4 @@
-The Hacking_tools_installer run and auto install 8 of the best hacking tool for github
+The Hacking_tools_installer run and auto install 10 of the best hacking tool for github
 RUN:bash BreadcrumbsHacking_tools_installer
 
 Tools:
