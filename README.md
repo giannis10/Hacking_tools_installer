@@ -10,3 +10,5 @@ Tools:
 6)Brute-Force-Email
 7)Keylogger
 8)DDoS-Ripper
+9)Brute-force-Instagram-2023
+10)Facebook-BruteForce
