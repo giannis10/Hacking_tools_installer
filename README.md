@@ -10,5 +10,14 @@ Tools:
 6)Brute-Force-Email
 7)Keylogger
 8)DDoS-Ripper
-9)Brute-force-Instagram-2023
-10)Facebook-BruteForce
+9)wifite
+10)Aircrack
+11)metasploit
+12)ettercap
+13)nmap
+14)wpscan
+15)johny
+16)hashcat
+17)hydra
+18)kismet
+19)wireshark
